@@ -1,0 +1,9 @@
+target/
+.idea/
+.vscode/
+*.class
+*.war
+*.log
+.env
+users.xml
+votes.xml
